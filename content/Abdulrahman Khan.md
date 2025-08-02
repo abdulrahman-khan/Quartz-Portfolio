@@ -3,8 +3,6 @@
 title: Abdulrahman Khan
 
 ---
-# Abdulrahman Khan
-
 ## Technical Specialist & Data Engineering Enthusiast
 
 > Delivering high-quality, maintainable software solutions that fuel business data needs
@@ -13,7 +11,7 @@ title: Abdulrahman Khan
 
 ## Quick Links
 
-- [[Blog Home]] | [[Projects Home]] | [[About the Site]]
+- [[Blog]] | [[Projects Home]] | [[About the Site]]
 - 📧 arkhan2013@hotmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-khan) | 📍 Mississauga, Ontario
 
 ---
