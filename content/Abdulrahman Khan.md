@@ -39,7 +39,8 @@ My experience spans quality assurance automation, analytics dashboard developmen
 ## 🎓 Credentials
 
 **Education**
-- Advanced Diploma in Computer Systems Technology - Sheridan College (2022)
+- Advanced Diploma in Computer Systems Technology - Sheridan College 
+- Bachelor of Technology - McMaster University
 
 **Certifications**
 - PL-300: Power BI Analyst Associate
