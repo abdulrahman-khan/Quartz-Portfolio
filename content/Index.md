@@ -3,6 +3,8 @@
 title: Abdulrahman Khan
 
 ---
+# Abdulrahman Khan
+
 ## Technical Specialist & Data Engineering Enthusiast
 
 > Delivering high-quality, maintainable software solutions that fuel business data needs
@@ -11,7 +13,7 @@ title: Abdulrahman Khan
 
 ## Quick Links
 
-- [[Blog]] | [[Projects Home]] | [[About the Site]]
+- [[Blog Home]] | [[Projects Home]] | [[About the Site]]
 - 📧 arkhan2013@hotmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-khan) | 📍 Mississauga, Ontario
 
 ---
@@ -39,8 +41,7 @@ My experience spans quality assurance automation, analytics dashboard developmen
 ## 🎓 Credentials
 
 **Education**
-- Advanced Diploma in Computer Systems Technology - Sheridan College 
-- Bachelor of Technology - McMaster University
+- Advanced Diploma in Computer Systems Technology - Sheridan College (2022)
 
 **Certifications**
 - PL-300: Power BI Analyst Associate
