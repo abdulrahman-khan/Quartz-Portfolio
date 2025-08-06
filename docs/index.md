@@ -1,46 +1,110 @@
 ---
+
 title: Abdulrahman Khan
+
+---
+# Abdulrahman Khan
+
+## Technical Specialist & Data Engineering Enthusiast
+
+> Delivering high-quality, maintainable software solutions that fuel business data needs
+
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+## Quick Links
 
-## 🪴 Get Started
+- [[Blog Home]] | [[Projects Home]] | [[About the Site]]
+- 📧 arkhan2013@hotmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-khan) | 📍 Mississauga, Ontario
 
-Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
+---
 
-Then, in your terminal of choice, enter the following commands line by line:
+## About Me
 
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
+Hello, I'm **Abdulrahman Khan**, a Technical Specialist and Data enthusiast based in Mississauga, Ontario. I specialize in bridging the gap between software development and data engineering to create solutions that drive business insights.
 
-This will guide you through initializing your Quartz with content. Once you've done so, see how to:
+My experience spans quality assurance automation, analytics dashboard development, custom reporting for business KPIs, and modern data engineering practices. I'm passionate about building systems that not only work well today but scale for tomorrow's challenges.
 
-1. [[authoring content|Writing content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. Sync your changes with [[setting up your GitHub repository|GitHub]]
-6. [[hosting|Host]] Quartz online
+### 🛠️ Technical Stack
 
-If you prefer instructions in a video format you can try following Nicole van der Hoeven's
-[video guide on how to set up Quartz!](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s)
+**Data & Analytics**
+- Databases: Oracle, PostgreSQL, SQL Server
+- BI Tools: Power BI, SSRS, Oracle Reports
+- Big Data: Hadoop, Spark, Flume, Apache Airflow
 
-## 🔧 Features
+**Development**
+- Languages: Python, Java, C# .NET, PL/SQL
+- Cloud: Microsoft Azure, AWS
+- Automation: Selenium, ETL processes
 
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks|wikilinks, transclusions]], [[backlinks]], [[features/Latex|Latex]], [[syntax highlighting]], [[popover previews]], [[Docker Support]], [[i18n|internationalization]], [[comments]] and [many more](./features/) right out of the box
-- Hot-reload on configuration edits and incremental rebuilds for content edits
-- Simple JSX layouts and [[creating components|page components]]
-- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
-- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
+---
 
-For a comprehensive list of features, visit the [features page](./features/). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
+## 🎓 Credentials
 
-### 🚧 Troubleshooting + Updating
+**Education**
+- Advanced Diploma in Computer Systems Technology - Sheridan College (2022)
 
-Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
+**Certifications**
+- PL-300: Power BI Analyst Associate
+- DP-900: Microsoft Azure Fundamentals
+- MS-700: Teams Administrator
+- PCAD: Python Institute Data Analyst
+- DataExpert.io Data Engineering Bootcamp
 
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+---
+
+## Professional Experience
+
+### Programming Data Analyst | S&C Electric Company
+
+_Jan 2022 – May 2022 | Toronto, Ontario_
+
+Delivered operational insights through custom reporting solutions, serving 30+ clients across 5 departments with Oracle Reports and PL/SQL-based analytics.
+
+### IT Systems Analyst | Ontario Ministry of Natural Resources
+
+_Jun 2021 – Sept 2021 | Toronto, Ontario_
+
+Automated data validation testing for Ministry of Environment systems, eliminating manual processes and saving hundreds of hours through Selenium and Java-based solutions.
+
+### Software QA Analyst | IServeCorp
+
+_Sept 2020 – Jan 2021 | Toronto, Ontario_
+
+Led quality assurance for Trade Management System, documenting 200+ defects and personally resolving 50+ critical issues to accelerate product delivery.
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Engineering & Analytics
+
+**[TTC Delay Analysis](https://github.com/abdulrahman-khan/TTC-Delay-Analysis)** Power BI dashboards analyzing Toronto transit delay patterns and trends for operational insights.
+
+**[ShopEuna Tech Stack Showcase](https://github.com/abdulrahman-khan/ShopEuna-TechStackShowcase)** End-to-end data engineering solution featuring ETL processes, SSRS reports, and retail BI system architecture.
+
+**[TechGearPro Case Study](https://github.com/abdulrahman-khan/TechGearPro_CaseStudy)** E-commerce sales analysis delivering actionable insights for marketing strategy optimization.
+
+### ⚙️ Software Development
+
+**[Clean-Tree](https://github.com/abdulrahman-khan/Clean-Tree)** Obsidian plugin enhancing file explorer UX through intelligent folder management automation.
+
+**[fishbot-automation](https://github.com/abdulrahman-khan/fishbot-automation)** Web automation prototype demonstrating HTML/JS integration patterns.
+
+### 🔬 Data Science & Analysis
+
+**[Car Features MSRP Analysis](https://github.com/abdulrahman-khan/CarFeaturesMSRPAnalysis)** Python-based exploration of automotive pricing factors using statistical analysis techniques.
+
+**[Python Data Science Examples](https://github.com/abdulrahman-khan/python-datascience-examples)** Comprehensive collection of Jupyter notebooks showcasing various Python data science methodologies.
+
+---
+
+## What I'm Working On
+
+- Exploring modern data stack architectures
+- Building scalable ETL pipelines with cloud-native tools
+- Contributing to open-source data engineering projects
+- Sharing insights through technical writing
+
+---
+
+_Last updated: January 2025_
