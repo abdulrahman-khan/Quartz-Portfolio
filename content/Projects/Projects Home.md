@@ -1,5 +1,5 @@
 
-Here lies a collection of things I’ve built whhich I'm not to embarassed to talk about. Some still work, some over-engineered, all fueled by questionable life choices and a drive to fix problems nobody asked me to fix.
+Here lies a collection of things I’ve built. Some still work, some over-engineered, all fueled by questionable life choices and a drive to fix problems nobody asked me to fix.
 
 ---
 
