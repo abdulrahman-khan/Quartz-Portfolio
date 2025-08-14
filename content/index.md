@@ -13,7 +13,7 @@ title: Abdulrahman Khan
 
 ## Quick Links
 
-- [[Blog Home]] | [[Projects Home]] | [[About the Site]]
+- [[Blog Home]] | [[_Projects Home]] | [[About the Site]]
 - 📧 arkhan2013@hotmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-khan) | 📍 Mississauga, Ontario
 
 ---
